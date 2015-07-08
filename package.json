@@ -1,0 +1,16 @@
+{
+  "name": "test-karma-qunit",
+  "description": "Testting Karma and QUnit",
+  "version": "0.0.0",
+  "author": "<3",
+  "repository": "git://github.com/avtar/test-karma-qunit.git",
+  "bugs": "http://127.0.0.1/",
+  "dependencies": {},
+  "devDependencies": {
+    "karma": "^0.12.37",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-qunit": "^0.1.4",
+    "qunitjs": "^1.18.0"
+  }
+}
